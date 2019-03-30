@@ -1,6 +1,6 @@
 ## About
 
-On Android the best way to share content with other apps is via a [ContentProvider](https://developer.android.com/guide/topics/providers/content-providers). A `content://` URIs is used to identify data in such a provider, hence the name of this site.
+On Android, the best way to share content with other apps is via a [ContentProvider](https://developer.android.com/guide/topics/providers/content-providers). A `content://` URI is used to identify data in such a provider, hence the name of this site.
 
 The goal of this website is to teach developers everything they need to know about handling data and files on Android.
 
